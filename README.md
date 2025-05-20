@@ -1,6 +1,3 @@
-```
-millasjuab@gmail.com
-```
 
 Senior Full Stack Developer with 7 years of development experience. Contributed to building various kinds of applications including Fintech, B2B, B2C, eCommerce, Saas, and Real Estate.
 With a proven ability to deliver quality applications in a timely manner, typically purposed with enhancing efficiency; 50+ applications created and managed collectively saving 700+ man-hours per month. Over the course of a 8 year technology career, starting as a technician, he quickly rose through the ranks as a web developer through merit-based advancements. With his passion for learning and coding, his wish is to apply his skills on larger development teams, tackling more complex problems, and continuing to find ways to maximize user efficiency.
